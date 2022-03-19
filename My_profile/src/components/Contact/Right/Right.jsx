@@ -26,13 +26,17 @@ function Right() {
             <div>
               <input type="text"  name='name' placeholder='Name' />
             </div>
+            {/* <div>Email</div>
+            <div>
+              <input type="email" name='email' placeholder='Email' />
+            </div> */}
             <div>Subject</div>
             <div>
               <input type="text" name='subject'placeholder='Subject' />
             </div>
             <div>Message</div>
             <div>
-              <textarea name="message" cols="40" rows="5" placeholder='Your Meassage'></textarea>
+              <textarea name="message" cols="40" rows="5" placeholder='Your Message'></textarea>
             </div>
 
             <button type='submit' className={style.button}>Send</button>
