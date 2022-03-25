@@ -23,7 +23,7 @@ function Details() {
             <button className={style.resume}>RESUME</button>
           </a>
           <div style={{ marginTop: "20px" }}>
-            <a target="_blank" href="https://github.com/GoAlive13">
+            <a target="_blank" href="https://github.com/saitej98">
               <img
                 className={style.github}
                 src="/github.svg"

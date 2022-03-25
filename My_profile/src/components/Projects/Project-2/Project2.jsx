@@ -115,7 +115,7 @@ const Project2 = () => {
             <a
               style={{ textDecoration: "none", color: "white" }}
               target="_blank"
-              href="https://github.com/GoAlive13/Box8.in"
+              href="https://github.com/saitej98/Box8.in"
             >
               <span>
                 <svg
@@ -148,7 +148,7 @@ const Project2 = () => {
               className={style.anch}
               style={{ textDecoration: "none", color: "white" }}
               target="_blank"
-              href="https://box8-in.vercel.app/"
+              href="https://saitej98.github.io/Box8.in/"
             >
               <span>
                 <svg

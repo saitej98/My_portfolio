@@ -112,7 +112,7 @@ const Project1 = () => {
             <a
               style={{ textDecoration: "none", color: "white" }}
               target="_blank"
-              href="https://github.com/GoAlive13/American-Eagle-Web.git"
+              href="https://github.com/saitej98/American-Eagle-Web.git"
             >
               <span>
                 <svg
@@ -143,7 +143,7 @@ const Project1 = () => {
             style={{ backgroundColor: "#286DAB" }}
           >
             <a
-              href="https://jeevan243.github.io/American-Eagle-Web/"
+              href="https://american-eagle-web.vercel.app/"
               style={{ textDecoration: "none", color: "white" }}
               target="_blank"
             >

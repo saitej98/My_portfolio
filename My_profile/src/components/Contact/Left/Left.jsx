@@ -73,7 +73,7 @@ function Left() {
           </span>
         </div>
         <div className={style.icondiv}>
-          <a target="_blank" href="https://github.com/GoAlive13">
+          <a target="_blank" href="https://github.com/saitej98">
             <img className={style.img} src="/github.svg" alt="github" />
           </a>
           <a target="_blank" href="https://www.linkedin.com/in/saiteja-golivi-5a0a6516a">
