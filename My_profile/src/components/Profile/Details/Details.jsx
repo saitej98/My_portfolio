@@ -17,7 +17,7 @@ function Details() {
           </p>
           <a
             target="_blank"
-            href="https://drive.google.com/file/d/1ic7QTn36GfRXvTtWr-Mzb8-6fF8AAb0H/view?usp=sharing"
+            href="https://drive.google.com/file/d/1jntQZflNCMS5e5xYzTxN-s14GAyOzr01/view?usp=sharing"
           >
             {" "}
             <button className={style.resume}>RESUME</button>
