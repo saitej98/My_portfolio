@@ -1,9 +1,6 @@
 import React, { useEffect, useState } from "react";
-import youtube from "./youtube.svg";
 import img1 from "./Home.png";
-import img2 from "./Post.png";
-import img3 from "./signin.png";
-import img4 from "./Logout.png";
+import img2 from "./Logout.png";
 import left from "./left.gif";
 import right from "./right.gif";
 import style from "./project4.module.css";
@@ -18,14 +15,6 @@ const Project4 = () => {
     {
       id: 1,
       image: img2,
-    },
-    {
-      id: 2,
-      image: img3,
-    },
-    {
-      id: 3,
-      image: img4,
     },
   ];
 
@@ -73,19 +62,15 @@ const Project4 = () => {
             fontWeight: "bolder",
           }}
         >
-          Instagram-2.0 (Solo project)
+          Todo App (Solo project)
         </h2>
         <p>
-          Instagram-2.0 is a similar clone of Instagram where a user can add
-          posts, likes, or comment on other users' posts after they Logged In.
-          If the user is not logged in he can see others post but cant do
-          comment or like on others post.
+        To Do gives you focus, from work to play.
         </p>
 
         <h3 style={{ color: "#B37D4E" }}>Tech stack:</h3>
         <p>
-          Next.js | JavaScript | React | Tailwind CSS | Firebase V9 | Next Auth
-          | Recoil
+       | JavaScript | React 
         </p>
 
         <div className={style.btndivv}>
@@ -93,7 +78,7 @@ const Project4 = () => {
             <a
               style={{ textDecoration: "none", color: "white" }}
               target="_blank"
-              href="https://github.com/huxly123/Instagram-2.0"
+              href="https://github.com/saitej98/TodoApp"
             >
               <span>
                 <svg
@@ -118,7 +103,7 @@ const Project4 = () => {
               code
             </a>
           </button>
-          {/* <button
+          <button
             className={style.btnpro}
             style={{ backgroundColor: "#286DAB" }}
           >
@@ -126,7 +111,7 @@ const Project4 = () => {
               className={style.anch}
               style={{ textDecoration: "none", color: "white" }}
               target="_blank"
-              href="https://ackoclone-huxly123.vercel.app/"
+              href="https://todo-goalive13.vercel.app/"
             >
               <span>
                 <svg
@@ -151,9 +136,9 @@ const Project4 = () => {
               </span>
               Live
             </a>
-          </button> */}
+          </button>
           {/* yt */}
-          <button className={style.btnpro} style={{ backgroundColor: "red" }}>
+          {/* <button className={style.btnpro} style={{ backgroundColor: "red" }}>
             <a
               className={style.anch}
               style={{ textDecoration: "none", color: "white" }}
@@ -164,20 +149,20 @@ const Project4 = () => {
                 <img
                   src={youtube}
                   style={{
-                    color: "white",
-                    marginTop: "-2px",
-                    position: "absolute",
-                    left: "0",
+                    // color: "white",
+                    // marginTop: "-2px",
+                    // position: "absolute",
+                    // left: "0",
 
-                    width: "1.5em",
-                    height: "1.5em",
-                    marginLeft: "8px",
+                    // width: "1.5em",
+                    // height: "1.5em",
+                    // marginLeft: "8px",
                   }}
                 ></img>
               </span>
               Demo
             </a>
-          </button>
+          </button> */}
         </div>
       </div>
     </div>
