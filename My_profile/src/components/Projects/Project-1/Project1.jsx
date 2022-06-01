@@ -143,7 +143,7 @@ const Project1 = () => {
             style={{ backgroundColor: "#286DAB" }}
           >
             <a
-              href="https://american-eagle-web.vercel.app/"
+              href="https://american-eagle-web-clone.vercel.app/"
               style={{ textDecoration: "none", color: "white" }}
               target="_blank"
             >
